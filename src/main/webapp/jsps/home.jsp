@@ -8,7 +8,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">DevOps tools covered in this project:</h1>
+<h1 align="center">Hi Welcome to Jenkins CI CD Pipeline Demo </h1>
+<h1 align="center"> DevOps tools covered in this project:</h1>
 <h1 align="center"> Git for Source Code Managment, Maven for Build, Sonarqube for Quality Managment, Nexus for Artifacts repositories, Tomcat for Deployment and Jenkins for this entire CICD Process</h1>
 <hr>
 <br>
