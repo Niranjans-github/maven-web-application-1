@@ -148,13 +148,4 @@
 			
 </plugins>
 	</build>
-	
-<servers>
-<!-- This server.id matches my nexus group -->
-<server>
-<id>nexus-group</id>
-<username>admin</username>
-<password>admin123</password>
-	
-</servers>	
 </project>
